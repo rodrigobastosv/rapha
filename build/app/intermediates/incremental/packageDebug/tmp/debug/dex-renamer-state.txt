@@ -1,0 +1,4 @@
+#Thu Sep 19 22:05:05 GMT 2019
+base.0=/home/rodrigo/Documentos/Projects/raphs/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
